@@ -1,25 +1,62 @@
 # Stage-e-Tesi-UniPD
 
-## Struttura della repo
-- FAQ Piano di Studi: alcune info sul Piano di Studi della laurea triennale in Informatica
-- FAQ Stage e Tesi: documento omonimo di guida per le due attività, come al solito scritto da me, visto che non c'è niente di ufficiale
-e come sempre chi aiuta sono io
-- Moduli laurea: documentazione interna all'Università di Padova per la laurea
-- Moduli stage: moduli da compilare per l'inizio dello stage, la fine e il corso sulla sicurezza
-- Piano di Lavoro: il piano di lavoro che ho consegnato all'inizio dello stage seguendo il template FIUP
-- Tesi: la tesi in LaTeX e il PDF compilato con tutto quello che serve
-  - si precisa che personalmente e sentendo altri NON consiglio l'azienda in questione; si viene ignorati totalmente, si va su al massimo una volta a settimana e
-  o capita una roba superfacile oppure roba come questa; fate vobis, io vi avviso. Sono andato qui per cercare di laurearmi entro luglio, non per altri motivi, lanciandomi a fare qualcosa di nuovo
-  - la tesi è basata sull'implementazione del lavoro di Alessio de Biasi (totalmente da solo e senza supporto morale/pratico da parte sua né dall'azienda: non è stato capito da nessuno dei due, dato l'atteggiamento di quest'ultimo purtroppo; questo va precisato - la mia tesi e la discussione parlano da sole, però), presente [qui](http://dspace.unive.it/bitstream/handle/10579/24326/870288-1284805.pdf?sequence=2)
-  - non è stata per nulla una bella persona con cui lavorare, arrogante e decisamente pretenzioso; dall'azienda mi sono sentito dire che avevo "poca voglia di fare";
-credo che letteralmente leggendosi il materiale proposto e un file di teoria di blockchain di centinaia di pagine si capisca la poca voglia di fare.
-Non consiglio minimamente l'azienda in questione (svogliati, vi seguono zero, non hanno nessuna professionalità o personale adeguato a formarvi etc.), né tantomeno il detto De Biasi. A posteriori: o capitano situazioni come la mia oppure progetti facili copia-incolla. Comunque attenzione zero: cercano stagisti come se piovesse, girate al largo.
-  - come si vede anche dal link della repo, la mia tesi, oltre ad essere presente nella cartella, è presente [qui](https://thesis.unipd.it/handle/20.500.12608/50229)   
-- Presentazione: Appunti sulla discussione, slide di riferimento da me usate per l'esame di laurea triennale
-- Sicurezza: materiale dei corsi a basso rischio e generale sostenuti per attività di tutorato e tirocinio
+Repository personale di documentazione relativa allo stage, alla tesi triennale e alla laurea in **Informatica** presso l'Università di Padova.
 
-Si fa presente, onde evitare appropriazioni indebite non volute che:
-- il Piano di Lavoro e la Tesi fanno parte di template LaTeX provvisto da repo separate da parte del FIUP (sia mai che poi mi senta dire che prendo lavoro di altri)
-- il resto è roba personale archiviata a fini di libera cultura e conoscenza (ci sta anche chi crede in queste cose, non dovrebbe essere un male,
-dati i molti contributi dietro le quinte nel corso degli anni)
-- le FAQ e altro materiale sono stati da me scritti e riveduti nel corso del tempo e degli anni (e vedendo quanta roba è, già uno "penso" dovrebbe ringraziare)
+---
+
+## Struttura della repository
+
+### FAQ Piano di Studi
+Alcune informazioni sul Piano di Studi della laurea triennale in Informatica.
+
+### FAQ Stage e Tesi
+Documento di guida alle due attività, scritto e riveduto nel corso degli anni.
+Come al solito, chi aiuta sono io — visto che documentazione ufficiale non pervenuta.
+Sono disponibili sia versione `.docx` che `.pdf`.
+Incluso anche uno screenshot esemplificativo della compilazione del modulo per lo stage interno.
+
+### Moduli laurea
+Documentazione interna all'Università di Padova relativa alla procedura di laurea:
+- Compilazione della richiesta di laurea (esempio compilato)
+- Modulo M17 per istanza tardiva di laurea
+- Stampa della ricevuta dal portale
+
+### Moduli stage
+Moduli compilati nelle varie fasi dello stage:
+- **Inizio Stage**: modulo di avvio del tirocinio firmato
+- **Fine Stage**: modulo di fine stage firmato
+- **Sicurezza**: attestato del corso di formazione generale (4 ore) obbligatorio per il tirocinio
+
+### Piano di lavoro
+Il piano di lavoro consegnato all'inizio dello stage, redatto seguendo il template LaTeX fornito dal [FIUP](https://github.com/FIUP).
+
+### Tesi
+La tesi triennale, disponibile sia in formato sorgente LaTeX che come PDF compilato.
+
+La tesi è consultabile pubblicamente anche [qui](https://thesis.unipd.it/handle/20.500.12608/50229).
+
+La tesi è basata sull'implementazione del lavoro di Alessio de Biasi, presente [qui](http://dspace.unive.it/bitstream/handle/10579/24326/870288-1284805.pdf?sequence=2).
+L'implementazione è stata portata avanti **totalmente da solo**, senza supporto né da parte dell'autore del lavoro originale né da parte dell'azienda: il lavoro non è stato compreso da nessuno dei due, come si evince dall'atteggiamento avuto durante il percorso. La tesi e la discussione parlano da sole.
+
+> **Nota sull'azienda**: non consiglio l'azienda in questione. Si viene seguiti zero, si va in sede al massimo una volta a settimana, il personale non è adeguato a formare gli stagisti e l'atteggiamento generale è di totale svogliatezza. Mi sono sentito dire che avevo "poca voglia di fare" — il che, leggendosi il materiale proposto e centinaia di pagine di teoria sulla blockchain da zero e senza supporto, la dice lunga. Non è stata nemmeno una bella esperienza umana: arroganza e pretenziosità non mancavano. Cercano stagisti come se piovesse: girate al largo. Io sono andato qui esclusivamente per cercare di laurearmi entro luglio, non per altri motivi.
+
+### Presentazione
+Materiale relativo alla discussione della tesi:
+- Slide usate durante l'esame di laurea triennale
+- Discorso indicativo per la presentazione
+- Esempi di presentazioni di sessioni precedenti
+- Template ufficiale vuoto per le presentazioni del Dipartimento di Matematica UniPD
+
+### Sicurezza
+Materiale dei corsi obbligatori sostenuti per le attività di tutorato e tirocinio:
+- **Sicurezza Generale**: attestato del corso di formazione generale (4 ore) + 5 moduli teorici
+- **Sicurezza Basso Rischio**: attestato del corso a rischio basso (4 ore) + revisioni del test finale
+- Documentazione ufficiale UniPD in formato PDF
+
+---
+
+## Note
+
+- Il **Piano di Lavoro** e la **Tesi** fanno uso di template LaTeX forniti dal [FIUP](https://github.com/FIUP), in repo separate — sia mai che poi mi si dica che prendo lavoro di altri.
+- Il resto è materiale personale archiviato a fini di libera cultura e conoscenza.
+- Le **FAQ** e il resto del materiale sono stati scritti e riveduti da me nel corso degli anni. Vedendo quanta roba c'è, già uno "penso" dovrebbe ringraziare.
