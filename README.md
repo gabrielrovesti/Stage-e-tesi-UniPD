@@ -11,7 +11,6 @@ Alcune informazioni sul Piano di Studi della laurea triennale in Informatica.
 
 ### FAQ Stage e Tesi
 Documento di guida alle due attività, scritto e riveduto nel corso degli anni.
-Come al solito, chi aiuta sono io — visto che documentazione ufficiale non pervenuta.
 Sono disponibili sia versione `.docx` che `.pdf`.
 Incluso anche uno screenshot esemplificativo della compilazione del modulo per lo stage interno.
 
@@ -30,9 +29,7 @@ La tesi triennale, disponibile sia in formato sorgente LaTeX che come PDF compil
 La tesi è consultabile pubblicamente anche [qui](https://thesis.unipd.it/handle/20.500.12608/50229).
 
 La tesi è basata sull'implementazione del lavoro di Alessio de Biasi, presente [qui](http://dspace.unive.it/bitstream/handle/10579/24326/870288-1284805.pdf?sequence=2).
-L'implementazione è stata portata avanti **totalmente da solo**, senza supporto né da parte dell'autore del lavoro originale né da parte dell'azienda: il lavoro non è stato compreso da nessuno dei due, come si evince dall'atteggiamento avuto durante il percorso. La tesi e la discussione parlano da sole.
-
-> **Nota sull'azienda**: non consiglio l'azienda in questione. Si viene seguiti zero, si va in sede al massimo una volta a settimana, il personale non è adeguato a formare gli stagisti e l'atteggiamento generale è di totale svogliatezza. Mi sono sentito dire che avevo "poca voglia di fare" — il che, leggendosi il materiale proposto e centinaia di pagine di teoria sulla blockchain da zero e senza supporto, la dice lunga. Non è stata nemmeno una bella esperienza umana: arroganza e pretenziosità non mancavano. Cercano stagisti come se piovesse: girate al largo. Io sono andato qui esclusivamente per cercare di laurearmi entro luglio, non per altri motivi.
+L'implementazione è stata portata avanti da solo, senza supporto né da parte dell'autore del lavoro originale né da parte dell'azienda: il lavoro non è stato compreso da nessuno dei due, come si evince dall'atteggiamento avuto durante il percorso. La tesi e la discussione parlano da sole.
 
 ### Presentazione
 Materiale relativo alla discussione della tesi:
