@@ -14,12 +14,6 @@ Documento di guida alle due attività, scritto e riveduto nel corso degli anni.
 Sono disponibili sia versione `.docx` che `.pdf`.
 Incluso anche uno screenshot esemplificativo della compilazione del modulo per lo stage interno.
 
-### Moduli laurea
-Documentazione interna all'Università di Padova relativa alla procedura di laurea:
-- Compilazione della richiesta di laurea (esempio compilato)
-- Modulo M17 per istanza tardiva di laurea
-- Stampa della ricevuta dal portale
-
 ### Piano di lavoro
 Il piano di lavoro consegnato all'inizio dello stage, redatto seguendo il template LaTeX fornito dal [FIUP](https://github.com/FIUP).
 
@@ -29,7 +23,7 @@ La tesi triennale, disponibile sia in formato sorgente LaTeX che come PDF compil
 La tesi è consultabile pubblicamente anche [qui](https://thesis.unipd.it/handle/20.500.12608/50229).
 
 La tesi è basata sull'implementazione del lavoro di Alessio de Biasi, presente [qui](http://dspace.unive.it/bitstream/handle/10579/24326/870288-1284805.pdf?sequence=2).
-L'implementazione è stata portata avanti da solo, senza supporto né da parte dell'autore del lavoro originale né da parte dell'azienda: il lavoro non è stato compreso da nessuno dei due, come si evince dall'atteggiamento avuto durante il percorso. La tesi e la discussione parlano da sole.
+L'implementazione è stata portata avanti da solo, senza supporto né da parte dell'autore del lavoro originale né da parte dell'azienda.
 
 ### Presentazione
 Materiale relativo alla discussione della tesi:
@@ -37,12 +31,6 @@ Materiale relativo alla discussione della tesi:
 - Discorso indicativo per la presentazione
 - Esempi di presentazioni di sessioni precedenti
 - Template ufficiale vuoto per le presentazioni del Dipartimento di Matematica UniPD
-
-### Sicurezza
-Materiale dei corsi obbligatori sostenuti per le attività di tutorato e tirocinio:
-- **Sicurezza Generale**: attestato del corso di formazione generale (4 ore) + 5 moduli teorici
-- **Sicurezza Basso Rischio**: attestato del corso a rischio basso (4 ore) + revisioni del test finale
-- Documentazione ufficiale UniPD in formato PDF
 
 ---
 
