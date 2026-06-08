@@ -51,6 +51,5 @@ Materiale dei corsi obbligatori sostenuti per le attività di tutorato e tirocin
 
 ## Note
 
-- Il **Piano di Lavoro** e la **Tesi** fanno uso di template LaTeX forniti dal [FIUP](https://github.com/FIUP), in repo separate — sia mai che poi mi si dica che prendo lavoro di altri.
-- Il resto è materiale personale archiviato a fini di libera cultura e conoscenza.
-- Le **FAQ** e il resto del materiale sono stati scritti e riveduti da me nel corso degli anni. Vedendo quanta roba c'è, già uno "penso" dovrebbe ringraziare.
+- Il **Piano di Lavoro** e la **Tesi** fanno uso di template LaTeX forniti dal [FIUP](https://github.com/FIUP), in repo separate
+- Il resto è materiale personale archiviato a fini di esempio
