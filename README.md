@@ -21,12 +21,6 @@ Documentazione interna all'Università di Padova relativa alla procedura di laur
 - Modulo M17 per istanza tardiva di laurea
 - Stampa della ricevuta dal portale
 
-### Moduli stage
-Moduli compilati nelle varie fasi dello stage:
-- **Inizio Stage**: modulo di avvio del tirocinio firmato
-- **Fine Stage**: modulo di fine stage firmato
-- **Sicurezza**: attestato del corso di formazione generale (4 ore) obbligatorio per il tirocinio
-
 ### Piano di lavoro
 Il piano di lavoro consegnato all'inizio dello stage, redatto seguendo il template LaTeX fornito dal [FIUP](https://github.com/FIUP).
 
